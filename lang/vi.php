@@ -1,0 +1,42 @@
+<?php
+$lang_array['more'] = "Xem tiếp";
+$lang_array['home_page'] = "Trang chủ";
+$lang_array['product_title_list'] = "Danh mục sản phẩm";
+$lang_array['news_title'] = "Tin tức";
+$lang_array['support'] = 'Hỗ trợ';
+$lang_array['contact'] = 'Liên Hệ';
+$lang_array['project']='Các dự án';
+$lang_array['view_all'] = "xem tất cả";
+$lang_array['page_count'] = "Lượt truy cập : ";
+$lang_array['home_page'] = "Trang chủ";
+$lang_array['more_description_product'] = "thông tin thêm";
+$lang_array['relative_news'] = "Xem thêm";
+$lang_array['relative_products'] = "Sản phẩm tương tự";
+$lang_array['checkout_title'] = "liên hệ mua hàng";
+$lang_array['no_info']  = "đang cập nhật";
+$lang_array['product_button_more'] = "xem ";
+$lang_array['not_found'] = "không tìm thấy sản phẩm";
+$lang_array['name_holder'] = "vui lòng nhập tên của bạn";
+$lang_array['email_holder'] = "xin nhập địa chỉ email của bạn";
+$lang_array['number_holder'] = "[ tùy chọn ] nhập số điện thoại của bạn";
+$lang_array['message_holder'] = "[tùy chọn] để lại cho chúng tôi lời nhắn ";
+$lang_array['message'] = "lời nhắn";
+$lang_array['name'] = "Tên của bạn";
+$lang_array['email'] = "Địa chỉ của bạn:";
+$lang_array['number'] = "Số điện thoại :";
+$lang_array['submit'] = "Gửi";
+$lang_array['order'] = "Đặt hàng";
+$lang_array['success'] = "đã gửi thành công";
+$lang_array['error']="có lỗi xảy ra,xin thử lại sau";
+$lang_array['error_missing_field'] = "vui lòng điền đầy đủ thông tin ! ";
+$lang_array['read_more'] = "...đọc tiếp";
+$lang_array['facebook'] = "kết nối với chúng tôi";
+$lang_array['send_success'] = "thông tin đã gửi thành công,chúng tôi sẽ phản hồi sớm nhất có thể,cảm ơn bạn !";
+//TITLES : 
+$lang_array['title_result'] = "tìm kiếm";
+$lang_array['title_category'] = "danh mục";
+$lang_array['title_slider_footer'] = "Dự án";
+$lang_array['title_news'] = 'Tin tức';
+$lang_array['title_message'] = 'để lại tin nhắn'; 
+$lang_array['404']  = "Không tìm thấy nội dung ban tìm :( ";
+?>

@@ -1,0 +1,170 @@
+$borderColor : red;
+$textColor : #333;
+
+ul,li{
+	list-style-type: none;
+	
+}
+.border-left{
+	border-left:2px dashed $borderColor;
+
+}
+.vcenter{
+	display:inline-block;
+	vertical-align:middle;
+	float:none;
+}
+.center{
+	float:none;
+	margin:0 auto;
+	text-align:center;
+}
+.text{
+	color: $textColor;
+
+}
+.error-block{
+	padding-top:10%;
+	margin:0 auto;
+	display:block;
+		.error-big-title{
+			font-size:200%;
+			text-align:center;
+
+		}
+		.error-des{
+			font-style:italic;
+			font-size:12px;
+			text-align:right;
+		}
+}
+.title-type-1{
+
+
+}
+
+.title-type-2{
+	font-size:40px;
+}
+.title-type-3{
+	text-transform:uppercase;
+	font-size:20px;
+
+}
+.title-type-4{
+	color:#525252;
+	font-size:18px;
+
+}
+.title-type-5{
+	padding:20px 0px;
+	font-weight:400;
+}
+.left{
+	float:left;
+}
+.margin-top-20{
+	margin-top:20px;
+}
+.margin-top-25{
+	margin-top:25px;
+}
+.padding-1{
+	padding-top:40px;
+}
+.padding-top-25{
+	padding-top:25px;
+}
+.padding-top-20{
+	padding-top:20px;
+}
+.padding-top-11{
+	padding-top:11px;
+}
+.padding-top-40{
+	padding-top:40px;
+}
+.padding-top-70{
+	padding-top:70px;
+}
+
+.margin-top-20{
+	margin-top:20px;
+}
+.margin-top-25{
+	margin-top:25px;
+}
+.padding-1{
+	padding-top:40px;
+}
+
+
+.padding-bottom-25{
+	padding-top:25px;
+}
+.padding-bottom-20{
+	padding-top:20px;
+}
+.padding-bottom-11{
+	padding-top:11px;
+}
+.padding-bottom-40{
+	padding-top:40px;
+}
+.padding-bottom-70{
+	padding-top:70px;
+}
+
+.padding-bottom-20{
+	padding-bottom:20px;
+}
+
+
+.margin-bottom-20{
+	margin-bottom:20px;
+}
+.padding-2{
+
+}
+.margin-top-70{
+	margin-top:70px;
+}
+.block-1{
+	min-height : 410px;
+}
+.fullWidth{
+	width:100%;
+	display:block;
+	margin:0;
+	padding:0;
+}
+.relative{
+	position:relative;
+}
+.absolute{
+	position:absolute;
+}
+.right{
+	float:right;
+
+}
+.left{
+	float:left;
+}
+.clear{
+	clear:both;
+}
+.fixed-top{
+	position:fixed;
+	top:0;
+	left:0;
+}
+.button-base{
+	display: block;
+	cursor: pointer;
+	text-align:center;
+	color:white;
+	transition:0.5s ease all;
+}
+
+
